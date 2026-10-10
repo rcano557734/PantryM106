@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219036822002",
+    "project_id": "pantrymatch106",
+    "storage_bucket": "pantrymatch106.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219036822002:android:86bbfdb051dcdd997e236b",
+        "android_client_info": {
+          "package_name": "com.example.pantrymatch106"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4lnTgN5CpUfIFGVyMnZDA1jeos4f501w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
